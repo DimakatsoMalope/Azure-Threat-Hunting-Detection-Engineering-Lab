@@ -1,0 +1,2 @@
+# Azure-Threat-Hunting-Detection-Engineering-Lab
+A Windows endpoint hosted in Microsoft Azure begins exhibiting suspicious behavior. A SOC analyst is tasked with investigating endpoint telemetry collected by LimaCharlie, identifying attacker techniques through Atomic Red Team simulations, creating and tuning detections, mapping findings to MITRE ATT&amp;CK, and producing a complete incident report.
